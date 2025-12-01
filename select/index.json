@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "デブリーフィング feat. 春猿火",
+  "base_artist": "椎乃味醂",
+  "createdAt": "2025-12-01T12:35:03.660808Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Debriefing",
+      "artist": "ハイロ",
+      "has_synced": false,
+      "path": "select/pl_01_Debriefing_ハイロ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Debriefing",
+      "artist": "ハイロ",
+      "has_synced": false,
+      "path": "select/pl_02_Debriefing_ハイロ.txt"
+    }
+  ]
+}
